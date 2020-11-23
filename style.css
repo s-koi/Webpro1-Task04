@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(213, 243, 103);
+    color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 3em;
+    margin: 0;
+}
+
+p{
+    font-family: cursive;
+    color: #7b57aa;
+}
+
+h1 {
+    color: #5778aa;
+    font-size: 3em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    border-bottom: 4mm ridge rgb(138, 168, 207, .6);
+}
+
+h2 {
+    color: #5778aa;
+    font-family: cursive;
+    font-size: 1.5em;
+}
+
+ul{
+    list-style: none;
+    font-family: cursive;
+    color: #7b57aa;
+    border: thick double #3ab5c5;
+    padding: 1em;
+}
+
+.job-title {
+    color: #5778aa;
+    font-family: cursive;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+a:link,
+  a:visited {
+    color: #2636c5;
+}
+
+a:hover {
+    color: #fb6542;
+   text-decoration: none;
+}
